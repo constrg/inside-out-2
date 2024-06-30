@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'inside_out_font';
+  src: url('./assets/font/inside_out_font.ttf');
+  font-style: normal;
+  font-weight: normal;
+}
+
+:root {
+  --light: #fff;
+  --dark: #000;
+  --accent: #ffea03;
+
+  --fw-bold: 700;
+  --ff: 'inside_out_font';
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url('./assets/images/inside_out_2_bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--ff);
+  letter-spacing: 2px;
+}
+
+body.overflow-hidden {
+  overflow: hidden;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1080px;
+  margin: auto;
+  padding-inline: 20px;
+}
+
+img {
+  width: 100%;
+}
