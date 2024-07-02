@@ -38,8 +38,8 @@ onMounted(() => {
             <div class="nav_content">
             <RouterLink to="/" class="inside_out_2_logo_link"><img :src="inside_out_2_logo" class="inside_out_2_logo" :class="{'inside_out_2_logo_active' : isLogoActive}" alt="inside_out_2_logo"></RouterLink>
             <ul class="nav_list"  :class="{'nav_list_active': isNavListActive}">
-                <RouterLink to="/" class="nav_item" @click="resetActiveState">Home</RouterLink>
-                <RouterLink to="/about" class="nav_item"  @click="resetActiveState">About</RouterLink>
+                <RouterLink :to="{name: 'home'}" class="nav_item" @click="resetActiveState">Home</RouterLink>
+                <RouterLink :to="{name: 'about'}" class="nav_item"  @click="resetActiveState">About</RouterLink>
                 <a href="https://github.com/constrg/inside-out-2" target="_blank" class="nav_item">Source Code</a>
             </ul>
             <div class="hamburger_menu_btn" @click="navMenuActive" :class="{'hamburger_menu_btn_active': isHamburgerMenuBtnActive}">

@@ -3,7 +3,7 @@ import { RouterLink } from 'vue-router';
 </script>
 
 <template>
-    <RouterLink class="characters_btn" to="/characters">Characters</RouterLink>
+    <RouterLink class="characters_btn" :to="{name: 'characters'}">Characters</RouterLink>
 </template>
 
 <style lang="scss" scoped>

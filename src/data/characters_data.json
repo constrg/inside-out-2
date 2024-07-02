@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Riley",
+        "img": "/images/riley.png",
+        "description": "Riley Andersen is a major character in Inside Out, Riley's First Date? and Inside Out 2. She is an 11-year-old girl who turns 12 at the end of the film who loves hockey."
+    },
+    {
+        "id": 2,
+        "name": "Joy",
+        "img": "/images/joy.png",
+        "description": "Joy is the main character of Inside Out and Inside Out 2. She is the yellow Emotion and the main Emotion out of the five that live inside the mind of Riley Andersen with the others being Fear, Anger, Disgust and Sadness. She appears to be happy all the time and full of energy."
+    },
+    {
+        "id": 3,
+        "name": "Sadness",
+        "img": "/images/sadness.png",
+        "description": "Sadness is a character in Inside Out and Inside Out 2. She is the blue Emotion and one of the five Emotions inside the mind of Riley, along with Joy, Fear, Anger, and Disgust."
+    },
+    {
+        "id": 4,
+        "name": "Anger",
+        "img": "/images/anger.png",
+        "description": "Anger is a major character in Inside Out and Inside Out 2. He is the red Emotion and one of the five Emotions inside the mind of a young girl named Riley, along with Joy, Fear, Disgust and Sadness."
+    },
+    {
+        "id": 5,
+        "name": "Fear",
+        "img": "/images/fear.png",
+        "description": "Fear is a character in Inside Out and Inside Out 2. He is the purple Emotion and one of the five Emotions inside the mind of Riley, along with Joy, Anger, Disgust and Sadness."
+    },
+    {
+        "id": 6,
+        "name": "Disgust",
+        "img": "/images/disgust.png",
+        "description": "Disgust is a character in Inside Out and Inside Out 2. She is the green Emotion and one of the five Emotions inside the mind of Riley, along with Joy, Fear, Anger, and Sadness."
+    },
+    {
+        "id": 7,
+        "name": "Anxiety",
+        "img": "/images/anxiety.png",
+        "description": "Anxiety is a character in the 2024 film Inside Out 2. She is orange and one of the new emotions inside Riley."
+    },
+    {
+        "id": 8,
+        "name": "Envy",
+        "img": "/images/envy.png",
+        "description": "Envy is a character in the 2024 film Inside Out 2. She is the teal emotion inside Riley Andersen."
+    },
+    {
+        "id": 9,
+        "name": "Embarassment",
+        "img": "/images/embarassment.png",
+        "description": "Embarrassment is a character in the 2024 film Inside Out 2. He is the pink emotion inside Riley Andersen."
+    },
+    {
+        "id": 10,
+        "name": "Ennui",
+        "img": "/images/ennui.png",
+        "description": "Ennui is a character in the 2024 film Inside Out 2. She is the indigo emotion inside Riley Andersen."
+    }
+]
